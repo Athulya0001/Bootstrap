@@ -22,3 +22,8 @@ nav div ul li {
 h1 {
     font-size: 50px;
 }
+/* .display {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+} */
