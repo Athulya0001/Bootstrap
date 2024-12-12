@@ -59,12 +59,13 @@ h1 {
 .display {
     display: grid;
     grid-template-columns: 200px 200px 200px;
+    border-radius: 4px;
     row-gap: 50px;
     column-gap: 50px;
     /* background-color: white; */
 }
 .button {
-    padding: 13px;
+    padding: 8px;
     background-color: white;
     font-size: large;
     opacity: 0.9;
@@ -89,12 +90,12 @@ h1 {
     padding-right: 5px;
 }
 .each p {
-    font-size: 19px;
+    font-size: 16px;
     opacity: 0.9;
 }
 .each span {
     text-decoration: underline;
-    font-size: 21px;
+    font-size: 19px;
     cursor: pointer;
 }
 .support {
